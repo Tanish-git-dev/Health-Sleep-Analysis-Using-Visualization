@@ -26,5 +26,3 @@ The dataset contains information related to:
 * Jupyter Notebook
 ## Key Findings
 The analysis reveals significant relationships between lifestyle factors and sleep quality, highlighting the effects of stress, physical activity, BMI, and sleep disorders on overall sleep health.
-
-The analysis reveals significant relationships between lifestyle factors and sleep quality, highlighting the effects of stress, physical activity, BMI, and sleep disorders on overall sleep health.
